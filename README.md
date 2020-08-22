@@ -15,7 +15,7 @@ ___
 ___
 
 ### Languages and Tools I use often:
-<img align="left" alt="Python" width="48px" src="https://lh3.googleusercontent.com/proxy/zGk7PlTWKoiKcU8kd0CmZsaW5GyZaI_IIics7y5qwpDDqN4Y8eP4BOLhNqAhvFovAXy8lH6M-hhueMbaV5kPi_PgTHpdaObfJlbWqkW5dQfbsYiZMQ" />
+<img align="left" alt="Python" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
 <img align="left" alt="Firebase" width="58px" src="https://www.shareicon.net/data/512x512/2016/07/08/117548_google_512x512.png" />
 <img align="left" alt="Tensorflow" width="48px" src="https://avatars0.githubusercontent.com/u/15658638?s=200&v=4" />
 <img align="left" alt="PyCharm" width="48px" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/PyCharmCore256.png" />
