@@ -22,4 +22,4 @@ ___
 <img align="left" alt="Visual Studio Code" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Visual Studio" width="48px" src="https://www.iconarchive.com/download/i98390/dakirby309/simply-styled/Microsoft-Visual-Studio.ico" />
 <img align="left" alt="Atom" width="48px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fe%2Fe2%2FAtom_1.0_icon.png&f=1&nofb=1" />
-<img align="left" alt="Flutter" width="48px" src="https://strattonapps.com/wp-content/uploads/2020/02/flutter-logo-5086DD11C5-seeklogo.com_.png" />
+<img align="left" alt="Flutter" width="42px" src="https://strattonapps.com/wp-content/uploads/2020/02/flutter-logo-5086DD11C5-seeklogo.com_.png" />
