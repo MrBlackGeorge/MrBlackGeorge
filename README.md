@@ -6,7 +6,7 @@ I do what I love the most, code! Also, I Hope I'll accomplish my dream to become
 ___
 
 ### Talking about Personal Stuff:
-+ :wrench: I’m working on Personal project.
++ :wrench: I’m currently working on Personal project.
 + :books: I’m currently learning Machine Learning.
 + :dart: My target is to make better future using AI.
 +  :dancers: I love pair programming and talking with other developers.
