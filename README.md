@@ -14,7 +14,7 @@ ___
 
 ___
 
-### Languages and Tools I often use:
+### Technologies I often use:
 <img align="left" alt="Python" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
 <img align="left" alt="Firebase" width="58px" src="https://www.shareicon.net/data/512x512/2016/07/08/117548_google_512x512.png" />
 <img align="left" alt="Tensorflow" width="48px" src="https://avatars0.githubusercontent.com/u/15658638?s=200&v=4" />
