@@ -19,6 +19,5 @@ ___
 <img align="left" alt="Firebase" width="58px" src="https://www.shareicon.net/data/512x512/2016/07/08/117548_google_512x512.png" />
 <img align="left" alt="Tensorflow" width="48px" src="https://avatars0.githubusercontent.com/u/15658638?s=200&v=4" />
 <img align="left" alt="PyCharm" width="48px" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/PyCharmCore256.png" />
-<img align="left" alt="Visual Studio" width="48px" src="https://www.iconarchive.com/download/i98390/dakirby309/simply-styled/Microsoft-Visual-Studio.ico" />
 <img align="left" alt="Atom" width="48px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fe%2Fe2%2FAtom_1.0_icon.png&f=1&nofb=1" />
 <img align="left" alt="Flutter" width="40px" src="https://strattonapps.com/wp-content/uploads/2020/02/flutter-logo-5086DD11C5-seeklogo.com_.png" />
