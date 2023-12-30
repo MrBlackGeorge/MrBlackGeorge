@@ -1,23 +1,20 @@
 ## Hello there, my name is George  👋
 
-I'm a student at University of Electrical Engineering in Belgrade with a passion in Data Science and Machine Learning :computer:.  </br>
+I'm a student at University of Electrical Engineering in Belgrade with a passion in Software Engineering :computer:.  </br>
 I do what I love the most, code! Also, I Hope I'll accomplish my dream to become a great developer one day :raised_hands:. </br> 
 “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” ― **Martin Fowler**
 ___
 
 ### Talking about Personal Stuff:
 + :wrench: I’m working on a Personal project.
-+ :books: I’m currently learning Machine Learning.
-+ :dart: My target is to make better future using AI.
++ :books: I’m currently learning C++ and Flutter.
++ :dart: My target is to make better future using code.
 +  :dancers: I love pair programming and talking with other developers.
 + :high_brightness: In my free time, I usually play games or listen to some music.
 
 ___
 
 ### Technologies I often use:
-<img align="left" alt="Python" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
-<img align="left" alt="Firebase" width="58px" src="https://www.shareicon.net/data/512x512/2016/07/08/117548_google_512x512.png" />
-<img align="left" alt="Tensorflow" width="48px" src="https://avatars0.githubusercontent.com/u/15658638?s=200&v=4" />
-<img align="left" alt="PyCharm" width="48px" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/PyCharmCore256.png" />
-<img align="left" alt="Atom" width="48px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fe%2Fe2%2FAtom_1.0_icon.png&f=1&nofb=1" />
-<img align="left" alt="Flutter" width="40px" src="https://strattonapps.com/wp-content/uploads/2020/02/flutter-logo-5086DD11C5-seeklogo.com_.png" />
+<img align="left" alt="C++" width="50px" src="https://www.pnguniverse.com/wp-content/uploads/2021/01/Lenguaje-de-programacion-C.png" />
+<img align="left" alt="CLion" width="50px" src="https://cdn.freebiesupply.com/logos/large/2x/clion-1-logo-png-transparent.png" />
+<img align="left" alt="Flutter" width="50px" src="https://strattonapps.com/wp-content/uploads/2020/02/flutter-logo-5086DD11C5-seeklogo.com_.png" />
