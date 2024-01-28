@@ -1,6 +1,6 @@
 ## Hello there, my name is George  👋
 
-I'm a student at University of Electrical Engineering in Belgrade with a passion in Software Engineering :computer:.  </br>
+I'm a student at School of Electrical Engineering in University of Belgrade with a passion in Software Engineering :computer:.  </br>
 I do what I love the most, code! Also, I Hope I'll accomplish my dream to become a great developer one day :raised_hands:. </br> 
 “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” ― **Martin Fowler**
 ___
