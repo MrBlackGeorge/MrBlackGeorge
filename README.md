@@ -1,4 +1,4 @@
-## Hello there, my name is George 
+## Hello there, my name is Đorđe  
 
 I'm a 4th-year Software Engineering student at the **School of Electrical Engineering, University of Belgrade** .  
 I'm passionate about building full‑stack applications and continuously expanding my skills through hands‑on projects and collaboration.  
