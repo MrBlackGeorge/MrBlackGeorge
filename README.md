@@ -7,7 +7,7 @@ ___
 
 ###  About Me
 
--  **Currently working on:** A full‑stack sports news platform **OffTheBench** (Django + MySQL + JS)
+-  **Currently working on:** Maintaining a full‑stack sports news platform **OffTheBench** (Django + MySQL + JS)
 -  **Currently learning:** Advanced Spring Boot, Angular patterns, and system design
 -  **Goal:** Land a software engineering internship and contribute to impactful products
 -  **Ask me about:** Java, Django, Spring Boot, or anything related to web development
