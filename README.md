@@ -8,7 +8,7 @@ ___
 ###  About Me
 
 -  **Currently working on:** **FitTrack**, a fitness and nutrition tracking app with local AI recommendations (my diploma thesis)
--  **Currently learning:** Advanced Spring Boot, Angular patterns, system design, and neural networks
+-  **Currently learning:** Flutter, system design, and LLM arhitecture
 -  **Goal:** Land a software engineering internship and contribute to impactful products
 -  **Ask me about:** Java, Django, Node.js, Angular, Flutter, or anything related to web development
 
@@ -64,10 +64,3 @@ ___
   - Four user roles (individual/company customer, printer, administrator) with registration approval and password reset via a time‑limited link
   - Stripe card payments with server‑side verification, PDF invoices sent by email, and a Leaflet map with print shop geocoding
   - Public procurement with print shop bids and automatic selection of the best offer, using atomic locking to prevent duplicate invoices under concurrent requests
-
-___
-
-### Beyond Code
-
-- **Winter University 2026**, Peter the Great St. Petersburg Polytechnic University (Turing track: neural networks and AI)
-- **FONIS Hackathon** participant
