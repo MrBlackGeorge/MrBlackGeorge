@@ -43,7 +43,7 @@ ___
 
 ### Featured Projects
 
-#### FitTrack – Fitness and Nutrition Tracking App (Diploma Thesis)
+#### [FitTrack](https://github.com/MrBlackGeorge/DiplomskiRad) – Fitness and Nutrition Tracking App (Diploma Thesis)
 - **Tech:** Flutter, NestJS, MongoDB, Ollama
 - **Highlights:**
   - Full‑stack mobile app for workout and nutrition tracking
